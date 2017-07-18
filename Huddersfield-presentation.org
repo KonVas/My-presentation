@@ -1,9 +1,19 @@
-#+TITLE: HUD-FIELD-Presentation
+#+TITLE: HUD-FIELD Presentation
 # +DATE: 19.07.2017
 #+EMAIL: konstantinos.vasilakos@gmail.com
 
 * Introduction
-Researcher, software developer and composer of Electroacoustic Music.
++ Researcher.
++ Software developer.
++ Composer of Electroacoustic Music.
++ Educator of Music Technology.
+I am a techno-fluent artist, my work fully belongs in the intersection of Art - Science & Technology.
+
+* Education
++ 2009. BA (Hons) in Music Production (Aegean College).
++ 2011. Masters in Electroacoustic Composition (Utrecht School of Arts/Media & Technology).
++ 2016. PhD focusing in Computer Music and interactive composition (Keele University).
+(Thesis title: "An evaluation of digital interfaces for music composition and improvisation")
 
 * Notable Works
 + Dark Matter (CMS point 5, CERN, Switzerland).
@@ -11,37 +21,40 @@ Researcher, software developer and composer of Electroacoustic Music.
 + Ataraxia (ICMC 2014).
 + Free as in BEER (Live-Code Festival, Karlsruhe, Germany).
 
-* Education
-+ 2009. BA (Hons) in Music Production.
-+ 2011. Masters in Electroacoustic Composition.
-+ 2016. PhD focusing in Computer Music and interactive media.
-*** Thesis title: "An evaluation of digital interfaces for music composition and improvisation".
-
 * Research Experience
 + 2015. Research assistant: Dark Matter project, University of Birmingham.
 + 2014. Artist in residence: Sculpt project, residency at the Ionian University, Greece.
-+ 2013. Academic associate of the BEER, University of Birmingham.
++ 2013 - ongoing. Academic associate of the BEER, University of Birmingham.
 
 * Software development experience
+Github: https://konvas.github.com
 + CosmoSonics, platform to sonify astronomy data.
 + DarkMatter, involved in software solutions to use data from LHC.
 + Greap, a real time performance environment showcased on the Leap Motion website.
 + PoP system, use of an Arduino to collect environmental data.
 
 * Relevance with the IRiMAS project
-Software development has been an inherent part of my professional practice. My
-PhD included a portfolio of original compositions with accompanying custom made
-software implementing various DSP techniques. These included pieces of analysing
-acoustic instruments using MIR techniques to platforms which were used for the
-sonification of experimental new physics data. While I have excellent skills in
-music software development I acquire a broad knowledge on aesthetic and
-technical issues of Electroacoustic Composition. Thus, being competent in both
-musical and technical issues I can provide solutions in the IRiMAS
-project.
-
 + Creative coding and music software development.
 + Numerous projects focusing in DSP applied in music.
 + Experience in project management.
 + Experience in interdisciplinary projects.
 + Collaboration with leading research centres.
 + Experience in working with version control systems i.e. GitHub.
+
+** Conclusion
+Software development has been an inherent part of my professional practice.
+My work included pieces and software analysing acoustic instruments using MIR techniques to
+platforms which were used for the sonification of experimental new physics data.
+I have excellent skills in music software development, at the same time I
+acquire a broad knowledge on aesthetic and technical issues of Electroacoustic
+Composition. Thus, being competent in both musical and technical issues I can
+provide solutions in the IRiMAS project.
+
+** Remarks
+Although at first glance it may be apparent that I am not accustomed in
+programming in the context of digital musicology, my projects, especially
+DarkMatter, have provided me with an enormous insight on deploying raw data and
+converting it to something both musically and scientifically meaningful. Thus,
+tt could be argued that IRiMAS share the same ethos but in the opposite
+direction, that is sonic material converted to raw data as a tool to highlight
+compositional choices.
