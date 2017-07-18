@@ -54,7 +54,7 @@ provide solutions in the IRiMAS project.
 Although at first glance it may be apparent that I am not accustomed in
 programming in the context of digital musicology, my projects, especially
 DarkMatter, have provided me with an enormous insight on deploying raw data and
-converting it to something both musically and scientifically meaningful. Thus,
+converting it to both musically and scientifically meaningful. Thus,
 tt could be argued that IRiMAS share the same ethos but in the opposite
 direction, that is sonic material converted to raw data as a tool to highlight
 compositional choices.
