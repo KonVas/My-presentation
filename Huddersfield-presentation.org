@@ -1,0 +1,47 @@
+#+TITLE: HUD_FIELD-Presentation
+# +DATE: 19.07.2017
+#+EMAIL: konstantinos.vasilakos@gmail.com
+
+* Introduction
+Researcher, software developer and composer of Electroacoustic Music.
+
+* Notable Works
++ Dark Matter (CMS point 5, CERN, Switzerland).
++ Greap, featured on Leap Motion developers blog. (ACROE-ICA, Grenoble, France).
++ Ataraxia (ICMC 2014).
++ Free as in BEER (Live-Code Festival, Karlsruhe, Germany).
+
+* Education
++ 2009. BA (Hons) in Music Production.
++ 2011. Masters in Electroacoustic Composition.
++ 2016. PhD focusing in Computer Music and interactive media.
+*** Thesis title: "An evaluation of digital interfaces for music composition and improvisation".
+
+* Research Experience
++ 2015. Research assistant: Dark Matter project, University of Birmingham.
++ 2014. Artist in residence: Sculpt project, residency at the Ionian University, Greece.
++ 2013. Academic associate of the BEER, University of Birmingham.
+
+* Software development experience
++ CosmoSonics, platform to sonify astronomy data.
++ DarkMatter, involved in software solutions to use data from LHC.
++ Greap, a real time performance environment showcased on the Leap Motion website.
++ PoP system, use of an Arduino to collect environmental data.
+
+* Relevance with the IRiMAS project
+Software development has been an inherent part of my professional practice. My
+PhD included a portfolio of original compositions with accompanying custom made
+software implementing various DSP techniques. These included pieces of analysing
+acoustic instruments using MIR techniques to platforms which were used for the
+sonification of experimental new physics data. While I have excellent skills in
+music software development I acquire a broad knowledge on aesthetic and
+technical issues of Electroacoustic Composition. Thus, being competent in both
+musical and technical issues I can provide solutions in the IRiMAS
+project.
+
++ Creative coding and music software development.
++ Numerous projects focusing in DSP applied in music.
++ Experience in project management.
++ Experience in interdisciplinary projects.
++ Collaboration with leading research centres.
++ Experience in working with version control systems i.e. GitHub.
