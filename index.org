@@ -1,0 +1,89 @@
+#+TITLE: İTÜ MIAM Presentation
+#+EMAIL: konstantinos.vasilakos@gmail.com
+#+OPTIONS: reveal_slide_number:nil
+
+
+* Introduction
+#+ATTR_REVEAL: :frag (appear)
++ Performer/composer of Computer Music
++ Researcher
++ Software developer
++ Educator of Music Technology
+
+* Education
+#+ATTR_REVEAL: :frag (appear)
++ 2009. BA (Hons) in Music Production (Aegean College, validated by the University of Central Lancashire, UK)
++ 2011. Masters in Electroacoustic Composition (Utrecht School of Arts/Media & Technology)
++ 2016. PhD in Music focused in interactive composition (Keele University)
+#+ATTR_REVEAL: :frag frag-style
+Thesis title: "/An evaluation of digital interfaces for music composition and improvisation./"
+
+* Current position
+#+ATTR_REVEAL: :frag (appear)
+Module leader of Interactive Sound at AMC College, in partnership with UEL. Teaching creative coding, concentrating in digital audio technologies for various media e.g.: 
+#+ATTR_REVEAL: :frag (appear)
++ Performance systems
++ Interactive installations
++ Video games
++ Audio visual apps for mobile devices
+
+* Notable Works
+#+ATTR_REVEAL: :frag (appear)
+1. *Dark Matter* (Art@CMS Annual Vernissage 2016. CERN, Switzerland)
+2. *Ataraxia* (ICMC 2014 & ACROE-ICA Laboraitoire, Greboble, France)
+3. *Power of People* (Spanish Urban Street Art Exhibition, UK & Agoni Grammi Gonimi, Greece)
+4. *It all ends with noise* Fixed media (acousmatic) multi-channel composition. (SoundThought 2014, Glasgow, UK)
+5. *Free as in BEER* (with BEER) (Live-Code Festival 2013, Karlsruhe, Germany)
+
+* Research Experience
+#+ATTR_REVEAL: :frag (appear)
++ 2015. Research assistant: *Dark Matter* project. University of Birmingham, Music Dept., UK
++ 2014. Artist in residence: *Sculpt* project. Ionian University, Audio-Visual Dept., Corfu, Greece
++ 2013 - ongoing. Academic associate of the *BEER*, University of Birmingham, Music Dept., UK
+
+* Expertise & research interests
+#+ATTR_REVEAL: :frag (appear)
++ Human computer interaction
++ Live coding
++ Sonification
++ New interfaces
++ Interactive installations (audio-visual)
++ Machine listening and algorithmic composition
+
+* Computer skills
+#+ATTR_REVEAL: :frag frag-style
+Sound synthesis and algorithmic composition:
+#+ATTR_REVEAL: :frag (appear)
++ SuperCollider 
++ Max/MSP
++ Pure Data
+#+ATTR_REVEAL: :frag frag-style
+Visuals and multimedia programming platforms: 
+#+ATTR_REVEAL: :frag (appear)
++ Arduino
++ Processing
+#+ATTR_REVEAL: :frag frag-style
+Knowledge of Unity game engine, JavaScript and NodeJS.
+
+* Dev experience
+#+ATTR_REVEAL: :frag frag-style 
+Software development work includes:
+#+ATTR_REVEAL: :frag (appear)
++ *CosmoSonics*: development of a platform to sonify astronomy data
++ *Dark Matter*: involved in software solutions to use data from LHC for use in a multimedia project
++ *Greap*: a real time performance environment showcased on the Leap Motion website
++ *Power of People*: a sonification platform to track environmental data using the Arduino
+
+* Summary 
+I am a techno-fluent artist, my work fully belongs in the intersection of
+Electroacoustic Music and Sound Art aided by interactive media. My latest work aims to contribute
+on the ongoing dialogue between art-science and technology, and improves the
+accessibility of big scientific data illustrating its utilisation to inform
+aspects of artistic and musical practice, and at the same time acts as cultural
+transmitter of advanced and uncharted physics, such as the *Dark Matter* to the
+general public and the interested layman.
+
+* Contact details
++ My GitHub page: https://konvas.github.com
++ Email: konstantinos.vasilakos@gmail.com
++ Work: kvasilakos@mitropolitiko.edu.gr
